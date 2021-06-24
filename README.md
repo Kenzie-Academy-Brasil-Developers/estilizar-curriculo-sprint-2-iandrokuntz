@@ -14,10 +14,10 @@ Para os títulos você pode utilizar qualquer uma dessas fontes `'Rokkitt'`, `'H
 ## Cores
 As seguintes cores serão usadas pelo documento para texto e fundos:
 - `#444444` (slate grey, títulos e sub-títulos)
-- `#181818` (jet black, contatos e descrições)
-- `#cf8a05` (yellow, tópicos e divisória)
-- `#f3f3f3` (off white, cor de fundo)
-- `#dedede` (light grey, divisória entre os tópicos)
+- `#181818` (jet black, contatos e descrições)//
+- `#cf8a05` (yellow, tópicos e divisória)//
+- `#f3f3f3` (off white, cor de fundo)//
+- `#dedede` (light grey, divisória entre os tópicos)//
 
 ## Bordas
 - a borda que separa o cabeçalho do resto do currículo tem 2px de espessura
